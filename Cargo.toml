@@ -1,0 +1,10 @@
+[package]
+name = "libcsp"
+version = "0.1.0"
+authors = ["Chris Evans <cevans3326@gmail.com>"]
+build = "build.rs"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.26.3"
